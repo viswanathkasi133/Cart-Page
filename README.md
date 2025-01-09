@@ -6,33 +6,33 @@ This project implements a functional and responsive cart page using HTML, CSS, a
 
 Features
 
-Dynamic Cart Loading: Fetch cart data from the JSON API and display it dynamically.
+✔️ Dynamic Cart Loading: Fetch cart data from the JSON API and display it dynamically.
 
-Interactive Cart:
+✔️ Interactive Cart:
 
 Update item quantities with real-time subtotal and total calculations.
 
 Remove items from the cart.
 
-Responsive Design: Adapts seamlessly to mobile, tablet, and desktop views.
+✔️ Responsive Design: Adapts seamlessly to mobile, tablet, and desktop views.
 
-Currency Formatting: Displays prices in Indian Rupees (₹) with proper formatting.
+✔️ Currency Formatting: Displays prices in Indian Rupees (₹) with proper formatting.
 
-Cart Totals Section: Displays subtotal and total amounts dynamically.
+✔️ Cart Totals Section: Displays subtotal and total amounts dynamically.
 
 Bonus Features
 
-Local Storage: Retains cart data after page refresh.
+✨ Local Storage: Retains cart data after page refresh.
 
-Item Removal Confirmation: Shows a modal popup to confirm item removal.
+✨ Item Removal Confirmation: Shows a modal popup to confirm item removal.
 
-Loading Animation: Displays a loader while fetching cart data.
+✨ Loading Animation: Displays a loader while fetching cart data.
 
 Technologies Used
 
-HTML, CSS: For structuring and styling the cart page.
+🛠️ HTML, CSS: For structuring and styling the cart page.
 
-JavaScript: For dynamic cart functionalities and API integration.
+🛠️ JavaScript: For dynamic cart functionalities and API integration.
 
 API Data
 
@@ -46,18 +46,19 @@ Project Structure
 
 How to Run
 
-Clone the repository.
+📂 Clone the repository.
 
-Open index.html in your browser.
+🌐 Open index.html in your browser.
 
-Ensure internet connectivity for API data fetching.
+📶 Ensure internet connectivity for API data fetching.
 
 Submission
 
-GitHub repository link.
+🔗 GitHub repository link.
 
-Hosted project link.
+🌍 Hosted project link.
 
 Author
 
 Developed for L2 Responsive Cart Page Task.
+
